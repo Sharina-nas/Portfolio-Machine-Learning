@@ -5,20 +5,22 @@
       "model__classifier__n_neighbors": 31,
       "sampling__sampling_strategy": 0.25
     },
-    "threshold": 0.5,
+    "threshold": 0.42,
     "cv_f1": 0.13178784212894348,
     "cv_sd": 0.025081918793264765,
-    "search_seconds": 11.591128999833018
+    "search_seconds": 11.591128999833018,
+    "eval_f1_threshold": 0.14845360824742268
   },
   "Logistic Regression": {
     "params": {
       "model__classifier__C": 1.0,
       "sampling__sampling_strategy": 0.25
     },
-    "threshold": 0.6,
+    "threshold": 0.5,
     "cv_f1": 0.15321904996789434,
     "cv_sd": 0.042094725209209066,
-    "search_seconds": 1.7593661001883447
+    "search_seconds": 1.7593661001883447,
+    "eval_f1_threshold": 0.1378026070763501
   },
   "SVM": {
     "params": {
@@ -26,10 +28,11 @@
       "model__classifier__kernel": "rbf",
       "sampling__sampling_strategy": 0.1
     },
-    "threshold": 0.15,
+    "threshold": 0.11,
     "cv_f1": 0.14453978742840276,
     "cv_sd": 0.031961934535326114,
-    "search_seconds": 25.786719299852848
+    "search_seconds": 25.786719299852848,
+    "eval_f1_threshold": 0.11143695014662756
   },
   "Decision Tree": {
     "params": {
@@ -37,10 +40,11 @@
       "model__min_samples_leaf": 30,
       "sampling__sampling_strategy": 0.1
     },
-    "threshold": 0.4,
+    "threshold": 0.19,
     "cv_f1": 0.15698255336635153,
     "cv_sd": 0.04473651155976079,
-    "search_seconds": 1.844199299812317
+    "search_seconds": 1.844199299812317,
+    "eval_f1_threshold": 0.10663764961915125
   },
   "Random Forest": {
     "params": {
@@ -51,7 +55,8 @@
     "threshold": 0.3,
     "cv_f1": 0.15456786500015338,
     "cv_sd": 0.02234722449283167,
-    "search_seconds": 11.556867200415581
+    "search_seconds": 11.556867200415581,
+    "eval_f1_threshold": 0.14678899082568808
   },
   "Gradient Boosting": {
     "params": {
@@ -59,10 +64,11 @@
       "model__n_estimators": 60,
       "sampling__sampling_strategy": 0.1
     },
-    "threshold": 0.3,
+    "threshold": 0.18,
     "cv_f1": 0.16074124950947904,
     "cv_sd": 0.018876718245496478,
-    "search_seconds": 7.889603899791837
+    "search_seconds": 7.889603899791837,
+    "eval_f1_threshold": 0.13551401869158877
   },
   "XGBoost": {
     "params": {
@@ -70,10 +76,11 @@
       "model__n_estimators": 80,
       "sampling__sampling_strategy": 0.1
     },
-    "threshold": 0.3,
+    "threshold": 0.19,
     "cv_f1": 0.1577904866393508,
     "cv_sd": 0.019549060529710716,
-    "search_seconds": 7.273266199976206
+    "search_seconds": 7.273266199976206,
+    "eval_f1_threshold": 0.13163972286374134
   },
   "Eigen ensemble": {
     "params": {
@@ -84,9 +91,10 @@
       ],
       "sampling__sampling_strategy": 0.25
     },
-    "threshold": 0.5,
+    "threshold": 0.4,
     "cv_f1": 0.1586888182923335,
     "cv_sd": 0.023301418572097717,
-    "search_seconds": 14.126939400099218
+    "search_seconds": 14.126939400099218,
+    "eval_f1_threshold": 0.13398294762484775
   }
 }

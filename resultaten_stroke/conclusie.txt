@@ -1,8 +1,8 @@
-**Onze CV-keuze is Gradient Boosting.** Dit model haalt binnen ons grid de hoogste gemiddelde CV-F1: **0.1607**. Op de bestaande evaluatieset is de F1 **0.1342**, de precision **0.0872** en de recall **0.2913**. Het herkent **30 van 103** positieve gevallen, mist **73** en geeft **314** fout-positieve voorspellingen.
+**Onze CV-keuze is Gradient Boosting.** Dit model haalt binnen ons grid de hoogste gemiddelde CV-F1: **0.1607**. Op de bestaande evaluatieset is de F1 **0.1355**, de precision **0.0770** en de recall **0.5631**. Het herkent **58 van 103** positieve gevallen, mist **45** en geeft **695** fout-positieve voorspellingen.
 
-De hoogste waargenomen evaluatie-F1 is van **Random Forest** met **0.1468**. Dit is een beschrijvende vergelijking, geen extra tuningstap.
+De hoogste waargenomen evaluatie-F1 is van **KNN** met **0.1485**. Dit is een beschrijvende vergelijking, geen extra tuningstap.
 
-De geselecteerde instellingen voor Gradient Boosting zijn `{'model__max_depth': 2, 'model__n_estimators': 60, 'sampling__sampling_strategy': 0.1}`, met beslisdrempel **0.30**. De overige vaste instellingen staan in de modeldefinities. Een hoge accuracy alleen is onvoldoende: altijd klasse 0 voorspellen haalt hier 98.46% accuracy maar F1 = 0. 
+De geselecteerde instellingen voor Gradient Boosting zijn `{'model__max_depth': 2, 'model__n_estimators': 60, 'sampling__sampling_strategy': 0.1}`, met beslisdrempel **0.18**. De overige vaste instellingen staan in de modeldefinities. Een hoge accuracy alleen is onvoldoende: altijd klasse 0 voorspellen haalt hier 98.46% accuracy maar F1 = 0. 
 
 De Kaggle-scores zijn nog onbekend; we kunnen nog geen Kaggle-winnaar of behaalde minimumscore bevestigen.
 
