@@ -1,0 +1,5526 @@
+{
+  "KNN": [
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.07956139887776148,
+      "cv_sd": 0.005013356186687864
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07956139887776148,
+      "cv_sd": 0.005013356186687864
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.09514327429236812,
+      "cv_sd": 0.007901814793618752
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.09514327429236812,
+      "cv_sd": 0.007901814793618752
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11067307533956901,
+      "cv_sd": 0.008004901858162496
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.11413546981553706,
+      "cv_sd": 0.025560424762118422
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.08787660637517011,
+      "cv_sd": 0.02957566604784186
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.04167127832076285,
+      "cv_sd": 0.03045867083953212
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.004347826086956522,
+      "cv_sd": 0.009722034684781694
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.0639651614523404,
+      "cv_sd": 0.0033046275750651328
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.0639651614523404,
+      "cv_sd": 0.0033046275750651328
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.07926702410886702,
+      "cv_sd": 0.004625489611972466
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.07926702410886702,
+      "cv_sd": 0.004625489611972466
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.09224551359962899,
+      "cv_sd": 0.007848522812272614
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.1084506074995707,
+      "cv_sd": 0.009461388195094308
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.11774753259633645,
+      "cv_sd": 0.019974804613820004
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.10772554423299097,
+      "cv_sd": 0.022510566391560648
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0791275125019485,
+      "cv_sd": 0.015203177437032244
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.0834564334358035,
+      "cv_sd": 0.0033689178004162297
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.09160459052926287,
+      "cv_sd": 0.004304037968685946
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.10626644663917065,
+      "cv_sd": 0.012826977861703164
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.10987426901636006,
+      "cv_sd": 0.020699817827418216
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.1131569489188327,
+      "cv_sd": 0.029796386738893836
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.08625328728753645,
+      "cv_sd": 0.02244382968529451
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.02519435590122827,
+      "cv_sd": 0.021666922272165937
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.00449438202247191,
+      "cv_sd": 0.010049743719100177
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.05766672767744352,
+      "cv_sd": 0.0018860143747776528
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.06491718299068452,
+      "cv_sd": 0.003556923976401294
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08096774472507287,
+      "cv_sd": 0.0038213963754123404
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.08900393000628062,
+      "cv_sd": 0.00487841601672911
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.10423172518814953,
+      "cv_sd": 0.012819199019946895
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.11475199656429128,
+      "cv_sd": 0.018747990857743712
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.10945665544156939,
+      "cv_sd": 0.015445740847889619
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.08626054099628469,
+      "cv_sd": 0.029203189503423255
+    },
+    {
+      "params": {
+        "model__classifier__metric": "euclidean",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.04843326739986124,
+      "cv_sd": 0.023761401041170336
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.08575069099699219,
+      "cv_sd": 0.003371451126086474
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.08575069099699219,
+      "cv_sd": 0.003371451126086474
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.09670771900635755,
+      "cv_sd": 0.004872289956317185
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.09670771900635755,
+      "cv_sd": 0.004872289956317185
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.10417613122982532,
+      "cv_sd": 0.019444671199970398
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.09337077611071418,
+      "cv_sd": 0.01540691673456731
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.08471172357903542,
+      "cv_sd": 0.017643753624687463
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.030297968350042708,
+      "cv_sd": 0.02722606324813578
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.013333333333333332,
+      "cv_sd": 0.02981423969999719
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06519546140527872,
+      "cv_sd": 0.0016359919727272775
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.06519546140527872,
+      "cv_sd": 0.0016359919727272775
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08020803008065466,
+      "cv_sd": 0.00453239716564143
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.08020803008065466,
+      "cv_sd": 0.00453239716564143
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.09531059118608784,
+      "cv_sd": 0.010370435258263668
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.10826817014620929,
+      "cv_sd": 0.012399732945364794
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.1165358003161299,
+      "cv_sd": 0.014108536564245811
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.11136590508337747,
+      "cv_sd": 0.02704872991062926
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 11,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.08223898106251046,
+      "cv_sd": 0.03557571100569194
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.08495567967672837,
+      "cv_sd": 0.007567675017625522
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.09722655432441728,
+      "cv_sd": 0.010130881506858508
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.10848490038482443,
+      "cv_sd": 0.011946644292228626
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.11556091853687933,
+      "cv_sd": 0.020585251539133324
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11878943004010863,
+      "cv_sd": 0.03571338323983785
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.08769516142753851,
+      "cv_sd": 0.03326283918767283
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.03903490815116014,
+      "cv_sd": 0.01684838995581818
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.0047619047619047615,
+      "cv_sd": 0.010647942749998997
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.05942827720921908,
+      "cv_sd": 0.0016690326287861982
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.06688353531612104,
+      "cv_sd": 0.0032615161989579633
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08660217491121798,
+      "cv_sd": 0.005043280720161888
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.09657965749958097,
+      "cv_sd": 0.003212959594677681
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11129055085849471,
+      "cv_sd": 0.010771831517980442
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.12226048970967707,
+      "cv_sd": 0.020680394156305768
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.13178784212894348,
+      "cv_sd": 0.025081918793264765
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.07467334784187919,
+      "cv_sd": 0.028159101236300055
+    },
+    {
+      "params": {
+        "model__classifier__metric": "manhattan",
+        "model__classifier__n_neighbors": 31,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.022255630614748896,
+      "cv_sd": 0.014656338515343594
+    }
+  ],
+  "Logistic Regression": [
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09201173640970436,
+      "cv_sd": 0.003733428804351101
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11383373749860823,
+      "cv_sd": 0.006254395281602414
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13586508481601484,
+      "cv_sd": 0.008025558450325982
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.14597433211764765,
+      "cv_sd": 0.011308226745421488
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.15094513908105184,
+      "cv_sd": 0.020116697787596394
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13230208258288928,
+      "cv_sd": 0.042507145408201975
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.08865669497802948,
+      "cv_sd": 0.01761235249665826
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.03737048392220806,
+      "cv_sd": 0.023338673095993828
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.004651162790697674,
+      "cv_sd": 0.010400316174417626
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06349112308295887,
+      "cv_sd": 0.002331114771652567
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07595116874720477,
+      "cv_sd": 0.0013755881744687505
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08699995041065373,
+      "cv_sd": 0.002782651947881489
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.10017341651576075,
+      "cv_sd": 0.004056926436740744
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11338705975819889,
+      "cv_sd": 0.006010817458695853
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13453187528749136,
+      "cv_sd": 0.008087441714628274
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.15114497276927952,
+      "cv_sd": 0.020502532243481746
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.14754042496361913,
+      "cv_sd": 0.03790913545206629
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.09825587606242343,
+      "cv_sd": 0.013735265229029167
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09393691078133257,
+      "cv_sd": 0.003093226986777999
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.1138032320665485,
+      "cv_sd": 0.0057538768066992575
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13146831624798389,
+      "cv_sd": 0.009701549936488413
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.14186900870959557,
+      "cv_sd": 0.013290058860504012
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.1513542512570619,
+      "cv_sd": 0.01645916986120466
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.1418483236146801,
+      "cv_sd": 0.04971884893520273
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.09955739037281464,
+      "cv_sd": 0.004106786321680204
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.04448525473716863,
+      "cv_sd": 0.02227395383915979
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.004597701149425287,
+      "cv_sd": 0.01028077231034386
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06703629795821171,
+      "cv_sd": 0.002305272344137533
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07782619607821745,
+      "cv_sd": 0.0018237705277538427
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.0886293678964181,
+      "cv_sd": 0.0026630661016892195
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.10075503392328007,
+      "cv_sd": 0.004200992962348776
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.1109986838766405,
+      "cv_sd": 0.004725643544436279
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13354411918244927,
+      "cv_sd": 0.009509954543707322
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.14738634055398808,
+      "cv_sd": 0.016418635937102893
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.15321904996789434,
+      "cv_sd": 0.042094725209209066
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.11223642246021995,
+      "cv_sd": 0.02182985851337723
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09423576256257338,
+      "cv_sd": 0.0030470074456342747
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11404202113008702,
+      "cv_sd": 0.005648672667567625
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13110066186227579,
+      "cv_sd": 0.009655033287134662
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.14168513077449366,
+      "cv_sd": 0.012245978673890252
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.15134931789658485,
+      "cv_sd": 0.014969359406906515
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.14529170275049794,
+      "cv_sd": 0.0459737271507724
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.1004531417247072,
+      "cv_sd": 0.007839108377088731
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.04888695043889037,
+      "cv_sd": 0.018894638609392944
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.004597701149425287,
+      "cv_sd": 0.01028077231034386
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06743180801787366,
+      "cv_sd": 0.002011756404587349
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07825766795722526,
+      "cv_sd": 0.0018811848973393653
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08904664022574078,
+      "cv_sd": 0.002747951309029089
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.10097673161726983,
+      "cv_sd": 0.004046229944834815
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11097012511163269,
+      "cv_sd": 0.004398260115239667
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13360137161689228,
+      "cv_sd": 0.00918805521431333
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.1449122843118156,
+      "cv_sd": 0.015596161517842115
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.15321044846190457,
+      "cv_sd": 0.03971212357951201
+    },
+    {
+      "params": {
+        "model__classifier__C": 10.0,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.11014698073894995,
+      "cv_sd": 0.021389939453716134
+    }
+  ],
+  "SVM": [
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.04692461216647387,
+      "cv_sd": 0.025886735362799704
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.03529694297883053,
+      "cv_sd": 0.030987541869520015
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.03546319671406812,
+      "cv_sd": 0.04705348981561739
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.04027285845467664,
+      "cv_sd": 0.05819764139083701
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.017813765182186234,
+      "cv_sd": 0.039832789882587344
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.04278544238631397,
+      "cv_sd": 0.017146287869767997
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.04896246585484769,
+      "cv_sd": 0.02556639353535836
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.10793292604495683,
+      "cv_sd": 0.019200623923327075
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.11354259869964771,
+      "cv_sd": 0.014696034816671512
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11893794187100662,
+      "cv_sd": 0.01240779461713065
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.11576633041407106,
+      "cv_sd": 0.013916567813857958
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.11688541425724193,
+      "cv_sd": 0.01258292255836587
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.0718605285456086,
+      "cv_sd": 0.06583735280300584
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.06570694841881283,
+      "cv_sd": 0.06017576999641055
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.11706662375560742,
+      "cv_sd": 0.02250451188266525
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.1435840599827201,
+      "cv_sd": 0.03650072193473002
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13006935591660457,
+      "cv_sd": 0.02050860320353558
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.1286963229946075,
+      "cv_sd": 0.019883781786837
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.1081922087115423,
+      "cv_sd": 0.015695431172575536
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.08299614980451905,
+      "cv_sd": 0.020723062645181967
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.07702561523433006,
+      "cv_sd": 0.01334820619110208
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.06768365681861045,
+      "cv_sd": 0.01607254283408646
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.06244269697881337,
+      "cv_sd": 0.01480674816439607
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.030666487983951597,
+      "cv_sd": 0.000470592613593484
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.06644112803741722,
+      "cv_sd": 0.010572620902416546
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.10567239732128948,
+      "cv_sd": 0.005972107015758589
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.11766731222106278,
+      "cv_sd": 0.018822709776462214
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.13114137887595828,
+      "cv_sd": 0.028948586974053947
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.1239296983305487,
+      "cv_sd": 0.03705253748740731
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.11880390729823007,
+      "cv_sd": 0.023637235227286037
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.11980765405146687,
+      "cv_sd": 0.025149343416530148
+    },
+    {
+      "params": {
+        "model__classifier__C": 0.1,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.1089356526578353,
+      "cv_sd": 0.024066071969500447
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.03689161538784078,
+      "cv_sd": 0.011133586493033407
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.02518600540791981,
+      "cv_sd": 0.022884458614875418
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.022947916090109037,
+      "cv_sd": 0.03534538098510361
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.02235294117647059,
+      "cv_sd": 0.03821266298567463
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.016842105263157894,
+      "cv_sd": 0.03766009225262803
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.004123711340206186,
+      "cv_sd": 0.009220898876287794
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.04271738652288721,
+      "cv_sd": 0.01695947598537764
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.04915652955089102,
+      "cv_sd": 0.02578652758719642
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.10727739735170183,
+      "cv_sd": 0.01992601979620741
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.1128605756572687,
+      "cv_sd": 0.015103183341991202
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.1180229251404143,
+      "cv_sd": 0.012589861477984753
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.1218203765816526,
+      "cv_sd": 0.014366517804001283
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.1172135895997904,
+      "cv_sd": 0.012726799206164813
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.07091669284868404,
+      "cv_sd": 0.06615784422379205
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "linear",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.06925331361464272,
+      "cv_sd": 0.0636014709557192
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.11688784686006651,
+      "cv_sd": 0.02452795789971721
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.14453978742840276,
+      "cv_sd": 0.031961934535326114
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13589140203224997,
+      "cv_sd": 0.029610776102687482
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.13109249827904437,
+      "cv_sd": 0.01816053375045729
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.1154959155719169,
+      "cv_sd": 0.020724440065702204
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.0846686637166166,
+      "cv_sd": 0.02309242556375496
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.07964461729641185,
+      "cv_sd": 0.011351327129851294
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.07425160431600644,
+      "cv_sd": 0.01422790725717918
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.06633518737040549,
+      "cv_sd": 0.021475871472579698
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.03540498873018015,
+      "cv_sd": 0.003392678139711706
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.0803529670912558,
+      "cv_sd": 0.0028179715553428345
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.10147025249585065,
+      "cv_sd": 0.00849606606643375
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.1121635774512457,
+      "cv_sd": 0.013491669230142089
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.1196131082678901,
+      "cv_sd": 0.022669398170476963
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.1293955984460019,
+      "cv_sd": 0.027904317523701747
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.1360588088235341,
+      "cv_sd": 0.02221852167186417
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.13195949712845548,
+      "cv_sd": 0.022944799396575236
+    },
+    {
+      "params": {
+        "model__classifier__C": 1.0,
+        "model__classifier__kernel": "rbf",
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.11569619374047471,
+      "cv_sd": 0.029179861845770726
+    }
+  ],
+  "Decision Tree": [
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09023531271487345,
+      "cv_sd": 0.014725796368461172
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11060655532504964,
+      "cv_sd": 0.015354446979401911
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13320446397416577,
+      "cv_sd": 0.021788024055745345
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.13978454677875013,
+      "cv_sd": 0.015405784768923231
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.14711150739823603,
+      "cv_sd": 0.020466586739676176
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.08218890257270076,
+      "cv_sd": 0.0768561069440818
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.04251575630252101,
+      "cv_sd": 0.06152923556766035
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.015625,
+      "cv_sd": 0.034938562148434216
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06793272534221637,
+      "cv_sd": 0.003840963139938062
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.0727751502732676,
+      "cv_sd": 0.00845698489191741
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.09199310376040806,
+      "cv_sd": 0.015809861840920297
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.10133848630120046,
+      "cv_sd": 0.011169972282987098
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.10228871108803261,
+      "cv_sd": 0.00977626504233033
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13337150683842022,
+      "cv_sd": 0.018049152661624972
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.137010600406433,
+      "cv_sd": 0.014396065342543405
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.12309151587571832,
+      "cv_sd": 0.0561458483142945
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.08078385162939443,
+      "cv_sd": 0.05629662372550563
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09080393805043221,
+      "cv_sd": 0.014895707381452392
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11117518066060839,
+      "cv_sd": 0.014554485565946148
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13320446397416577,
+      "cv_sd": 0.021788024055745345
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.13978454677875013,
+      "cv_sd": 0.015405784768923231
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.14711150739823603,
+      "cv_sd": 0.020466586739676176
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.15698255336635153,
+      "cv_sd": 0.04473651155976079
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.04251575630252101,
+      "cv_sd": 0.06152923556766035
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.015625,
+      "cv_sd": 0.034938562148434216
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06832998362946566,
+      "cv_sd": 0.0032527907786141013
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07372537506009974,
+      "cv_sd": 0.010496744521907849
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.09673513932773654,
+      "cv_sd": 0.008824344651248588
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.09673513932773654,
+      "cv_sd": 0.008824344651248588
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.10242457597728327,
+      "cv_sd": 0.009993673291540174
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13449251172568372,
+      "cv_sd": 0.020037887358740115
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.1381316052936965,
+      "cv_sd": 0.016516449714097575
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.1273658312821572,
+      "cv_sd": 0.0510843042008687
+    },
+    {
+      "params": {
+        "model__max_depth": 3,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.08419581214362767,
+      "cv_sd": 0.05557669229925739
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.08385849163049847,
+      "cv_sd": 0.005437700303487413
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11254916842411791,
+      "cv_sd": 0.009928546930404654
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.12027937204151833,
+      "cv_sd": 0.023537582950740033
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.12926955811174135,
+      "cv_sd": 0.019388280257590363
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.13474206429999058,
+      "cv_sd": 0.022039821004099087
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.1250200036646862,
+      "cv_sd": 0.04129377282013173
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.08485013307672702,
+      "cv_sd": 0.03647369300821319
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.08840516596614577,
+      "cv_sd": 0.04402893145960449
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.040784742966851625,
+      "cv_sd": 0.04740227034044632
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06739361519214115,
+      "cv_sd": 0.003892387095456707
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07805903322693208,
+      "cv_sd": 0.0066287257096484965
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08770620438764373,
+      "cv_sd": 0.004668683900861488
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.09270929133477793,
+      "cv_sd": 0.008932050070681073
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.10380189752472377,
+      "cv_sd": 0.011964857490178185
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.11235933686907962,
+      "cv_sd": 0.008194128771697137
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.11961678784935612,
+      "cv_sd": 0.01430252045339214
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.11712836744196753,
+      "cv_sd": 0.03178843197411862
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 10,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.1259216113327925,
+      "cv_sd": 0.041348653137141284
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.08138431347892103,
+      "cv_sd": 0.006431318384191244
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.10794257437333343,
+      "cv_sd": 0.003771216140967944
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.12166054097634,
+      "cv_sd": 0.00918455709555137
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.12325199590416788,
+      "cv_sd": 0.011792711182526236
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.1310864379913041,
+      "cv_sd": 0.016865417104273077
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13228114076077546,
+      "cv_sd": 0.034750175056188756
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.10966313524798166,
+      "cv_sd": 0.014685495679897801
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.0963388159180136,
+      "cv_sd": 0.03679722328332175
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.017266187050359712,
+      "cv_sd": 0.038608367956830904
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06303975101249668,
+      "cv_sd": 0.003417185260979723
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07330039806614246,
+      "cv_sd": 0.003702790138601271
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08589295304388037,
+      "cv_sd": 0.008018565006661406
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.09778640811406751,
+      "cv_sd": 0.002085472259063627
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.10754089652508395,
+      "cv_sd": 0.009744384627565725
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.12004149388850678,
+      "cv_sd": 0.009871136948536849
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.1346084916281658,
+      "cv_sd": 0.01906982591767774
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.14530094906403204,
+      "cv_sd": 0.0293724172162364
+    },
+    {
+      "params": {
+        "model__max_depth": 6,
+        "model__min_samples_leaf": 30,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.12501451972990693,
+      "cv_sd": 0.0334309240948863
+    }
+  ],
+  "Random Forest": [
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09475442266016734,
+      "cv_sd": 0.008799536377956576
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.12193022486746163,
+      "cv_sd": 0.00857554165604915
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13884575516220435,
+      "cv_sd": 0.00994553198046637
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.1537019476904399,
+      "cv_sd": 0.01231806725464331
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.14419601095872717,
+      "cv_sd": 0.02103115777198958
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.03833116492776128,
+      "cv_sd": 0.032262244293094516
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.004651162790697674,
+      "cv_sd": 0.010400316174417626
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.04428425674081804,
+      "cv_sd": 0.000637541587500847
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07095047530961586,
+      "cv_sd": 0.003312522416180517
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08871230188272188,
+      "cv_sd": 0.003232052446845205
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.10032990304754197,
+      "cv_sd": 0.009488848218584244
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11647111300077437,
+      "cv_sd": 0.011733116604934308
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.14100299187014304,
+      "cv_sd": 0.027501918097556876
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.13144481745486428,
+      "cv_sd": 0.013170943294296729
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.05247517384183749,
+      "cv_sd": 0.023377145409378373
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.013497091144149969,
+      "cv_sd": 0.019842565808705855
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09383848189411033,
+      "cv_sd": 0.007794477223633042
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.1232907482454052,
+      "cv_sd": 0.008455823759026806
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.1430024864108777,
+      "cv_sd": 0.01563760401753402
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.15378739575165437,
+      "cv_sd": 0.01741154665013565
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.14102723381693655,
+      "cv_sd": 0.026798439355247828
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.027265032521941658,
+      "cv_sd": 0.037738363951504615
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.0439882706119455,
+      "cv_sd": 0.0007619896953022528
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07088926057166992,
+      "cv_sd": 0.0032519800074361114
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08813290071933012,
+      "cv_sd": 0.003100883493473455
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.10006151735131755,
+      "cv_sd": 0.007455054903605166
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11508710466447714,
+      "cv_sd": 0.009819070150052595
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13961989684580117,
+      "cv_sd": 0.02262347623761968
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.13354944572335875,
+      "cv_sd": 0.015784602063086368
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.02135217723453018,
+      "cv_sd": 0.03639574065406944
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09594470218873466,
+      "cv_sd": 0.00591386060806018
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11616768313089394,
+      "cv_sd": 0.005809976847351203
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.1317613941657336,
+      "cv_sd": 0.011448279183670812
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.14862345959969306,
+      "cv_sd": 0.017814613763252378
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.15456786500015338,
+      "cv_sd": 0.02234722449283167
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.11833471160777184,
+      "cv_sd": 0.027809335802233718
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.049557745110677925,
+      "cv_sd": 0.03467092733053288
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.008791208791208791,
+      "cv_sd": 0.01965774046153661
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.059156603571816166,
+      "cv_sd": 0.0017477474712157938
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07565777794963001,
+      "cv_sd": 0.0023772118677691453
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08784927537472001,
+      "cv_sd": 0.0035267923236326536
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.10141772111749676,
+      "cv_sd": 0.008059964630808719
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11383649652623526,
+      "cv_sd": 0.008211833662441817
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.1327393529691477,
+      "cv_sd": 0.01519172556028175
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.14607188051284437,
+      "cv_sd": 0.02857629371311819
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.1293317299293323,
+      "cv_sd": 0.022139286638739857
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 5,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.04352607571044077,
+      "cv_sd": 0.04114703071056136
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09146118619939159,
+      "cv_sd": 0.005658857478781534
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11595265721477324,
+      "cv_sd": 0.006281433270425946
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.1353917914381785,
+      "cv_sd": 0.012509403296225671
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.1468297506201553,
+      "cv_sd": 0.017837773653243547
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.14929506120072544,
+      "cv_sd": 0.01415725787507334
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.058854344689416194,
+      "cv_sd": 0.013838389413806692
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.056459077294995864,
+      "cv_sd": 0.0008356027554252577
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07185509371335289,
+      "cv_sd": 0.002303188877913969
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08565958926518343,
+      "cv_sd": 0.003245582458566492
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.09742461837884966,
+      "cv_sd": 0.00648041571988194
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11066201335370288,
+      "cv_sd": 0.008693442454286262
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.1397329445997992,
+      "cv_sd": 0.01717495004902037
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.14755327233494403,
+      "cv_sd": 0.025994670660106294
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.034918315152147814,
+      "cv_sd": 0.040002940442758414
+    },
+    {
+      "params": {
+        "model__max_depth": 8,
+        "model__min_samples_leaf": 20,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.004705882352941176,
+      "cv_sd": 0.010522672835293127
+    }
+  ],
+  "Gradient Boosting": [
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09982866480932964,
+      "cv_sd": 0.005785543767333887
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11873875571022421,
+      "cv_sd": 0.010071611777794948
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.1381159444861649,
+      "cv_sd": 0.012595659889286842
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.156575774271876,
+      "cv_sd": 0.015600736951233285
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.1559283187515105,
+      "cv_sd": 0.021818489696528227
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.09719746989865422,
+      "cv_sd": 0.009827807773228078
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.019668381932532876,
+      "cv_sd": 0.02811966681429719
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.004651162790697674,
+      "cv_sd": 0.010400316174417626
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06462190259236297,
+      "cv_sd": 0.0032823738012673557
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07393058038495202,
+      "cv_sd": 0.002308710549458974
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08914111713344618,
+      "cv_sd": 0.011680013043589016
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.10423090734894933,
+      "cv_sd": 0.005008507572448875
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11277563959747941,
+      "cv_sd": 0.01787802513587923
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.14451362060397713,
+      "cv_sd": 0.013902412539272734
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.1551752081382384,
+      "cv_sd": 0.015926229697372066
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.08335772303632565,
+      "cv_sd": 0.037132383397190695
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.015841584158415842,
+      "cv_sd": 0.03542285904950162
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09974707112704484,
+      "cv_sd": 0.006976801639983894
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.12138176414144008,
+      "cv_sd": 0.008047419730348747
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.134069409414422,
+      "cv_sd": 0.008295551523500245
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.14943522110865975,
+      "cv_sd": 0.017663705141808997
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.15762384466104923,
+      "cv_sd": 0.013630526449713614
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.12864991271020249,
+      "cv_sd": 0.021365493728470655
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.08622039930481534,
+      "cv_sd": 0.02564975017321129
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.027558622452239473,
+      "cv_sd": 0.030923281617150706
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.004651162790697674,
+      "cv_sd": 0.010400316174417626
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06450118607691784,
+      "cv_sd": 0.0032859279167641213
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07733676819774565,
+      "cv_sd": 0.004643731803849287
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08883067752500644,
+      "cv_sd": 0.009263639527428853
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.10457976619395097,
+      "cv_sd": 0.00923263434925692
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11179245574954995,
+      "cv_sd": 0.016013055387382888
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.1401957366637634,
+      "cv_sd": 0.011830076543906361
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.15191359849723005,
+      "cv_sd": 0.013990075190588348
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.148660774277996,
+      "cv_sd": 0.008337064580957643
+    },
+    {
+      "params": {
+        "model__max_depth": 1,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.07631280585615295,
+      "cv_sd": 0.027253138301453303
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09821829445358805,
+      "cv_sd": 0.0054175177969339305
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.121541033941752,
+      "cv_sd": 0.007184484471812793
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13659078622137022,
+      "cv_sd": 0.011336354624964044
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.14933107947346685,
+      "cv_sd": 0.01719331861377763
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.16074124950947904,
+      "cv_sd": 0.018876718245496478
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.11393538283747609,
+      "cv_sd": 0.02025345112529398
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.05434120347220343,
+      "cv_sd": 0.036938247804744195
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.027652207355577475,
+      "cv_sd": 0.03766856012965283
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06356187245737499,
+      "cv_sd": 0.0033407639325373473
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07603583045537267,
+      "cv_sd": 0.004264357438492373
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.09063623283603643,
+      "cv_sd": 0.008303330730393044
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.10449182736544671,
+      "cv_sd": 0.008394520593577957
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11204535841086152,
+      "cv_sd": 0.013769109639436635
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13917841546374105,
+      "cv_sd": 0.016774323033773932
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.15130027852528316,
+      "cv_sd": 0.015285995843307358
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.1316287646480324,
+      "cv_sd": 0.011698077378066432
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 60,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.05158906167529109,
+      "cv_sd": 0.038773095118075904
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09789516236088346,
+      "cv_sd": 0.0047433883725463075
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.1214460435771673,
+      "cv_sd": 0.008266194849321389
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13884043175548838,
+      "cv_sd": 0.009801019841851026
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.14731361139473056,
+      "cv_sd": 0.014269671724222856
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.15719648385379997,
+      "cv_sd": 0.018584250387769705
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.12952017523182063,
+      "cv_sd": 0.02359859829520542
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.07936831776648441,
+      "cv_sd": 0.03382368972727065
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.05191917016697487,
+      "cv_sd": 0.05150109506678159
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.01298449612403101,
+      "cv_sd": 0.018933820901864302
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06434547884009087,
+      "cv_sd": 0.002475221731729748
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07552865984883135,
+      "cv_sd": 0.002693078016725292
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.09200371088077589,
+      "cv_sd": 0.004990036883318617
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.1012399685966279,
+      "cv_sd": 0.005848634166971139
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11610753554527434,
+      "cv_sd": 0.009654667768301437
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13715347941083686,
+      "cv_sd": 0.015483994635972952
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.14798942552353972,
+      "cv_sd": 0.01565482985094063
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.13604589198832845,
+      "cv_sd": 0.024045399356648137
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 120,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.10046354937953286,
+      "cv_sd": 0.019554741942569082
+    }
+  ],
+  "XGBoost": [
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09290493475626427,
+      "cv_sd": 0.0055599688627110235
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11646792105378082,
+      "cv_sd": 0.0066974951439385715
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.1371169099831445,
+      "cv_sd": 0.01094627027133854
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.1486305451634658,
+      "cv_sd": 0.012160342105874276
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.1577904866393508,
+      "cv_sd": 0.019549060529710716
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.12483629030556824,
+      "cv_sd": 0.025736437510570837
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.07460786691434178,
+      "cv_sd": 0.02645804865862713
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.025821701561980725,
+      "cv_sd": 0.034769612938622484
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.01263157894736842,
+      "cv_sd": 0.028245069189471027
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.062395798121544985,
+      "cv_sd": 0.001401557382249002
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07219651649712033,
+      "cv_sd": 0.0017810456950632728
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08639840393390666,
+      "cv_sd": 0.00654960160369784
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.10221979665853805,
+      "cv_sd": 0.007450049855009655
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11258888972136014,
+      "cv_sd": 0.010152038496383181
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.1386466314529255,
+      "cv_sd": 0.014824377554140624
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.1478753721663198,
+      "cv_sd": 0.01730000954724743
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.14289282127116426,
+      "cv_sd": 0.029915487551140603
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0669296129275193,
+      "cv_sd": 0.0208332434249637
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09221574390195852,
+      "cv_sd": 0.0042465997700901125
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11491199469393751,
+      "cv_sd": 0.00712517589319294
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.1358563928558288,
+      "cv_sd": 0.007902113471698982
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.1462945970291221,
+      "cv_sd": 0.013488852951851165
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.14932057976640073,
+      "cv_sd": 0.020948825289224655
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.1448719251941355,
+      "cv_sd": 0.01714429887265744
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.08810414604464947,
+      "cv_sd": 0.030867674174889892
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.05602872876924554,
+      "cv_sd": 0.036943389149467695
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.016587070471753056,
+      "cv_sd": 0.026014632717393318
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06339235016373793,
+      "cv_sd": 0.0015888822857039893
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07435426056073206,
+      "cv_sd": 0.0036793550380655408
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08642046332438555,
+      "cv_sd": 0.0017492500266490215
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.09924300752962656,
+      "cv_sd": 0.004932636646041116
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11152277553446559,
+      "cv_sd": 0.008297101611347977
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13411730249710263,
+      "cv_sd": 0.010174533507511229
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.1506475837349204,
+      "cv_sd": 0.0186256996344051
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.13966509609426456,
+      "cv_sd": 0.02027631436395785
+    },
+    {
+      "params": {
+        "model__max_depth": 2,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.11671262276179359,
+      "cv_sd": 0.02419916703022627
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09553475960871918,
+      "cv_sd": 0.004502240022795982
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11473226467115223,
+      "cv_sd": 0.005152577351870826
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13243593822776437,
+      "cv_sd": 0.011591834256266793
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.1455556851998303,
+      "cv_sd": 0.01539389040924645
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.1468000381517861,
+      "cv_sd": 0.013888389378216542
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13206196597837266,
+      "cv_sd": 0.015794430049954334
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.10771745490474949,
+      "cv_sd": 0.026608843834378927
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.04075090527920717,
+      "cv_sd": 0.0477898397390948
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.008333333333333333,
+      "cv_sd": 0.018633899812498248
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06361024802855397,
+      "cv_sd": 0.0027154263695685363
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07741282110585425,
+      "cv_sd": 0.0027641869355436227
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08934531228056906,
+      "cv_sd": 0.0033874675284238922
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.09883081017078024,
+      "cv_sd": 0.006848004680480059
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11172737532420125,
+      "cv_sd": 0.0087788628790119
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13235921967756,
+      "cv_sd": 0.011523058410774245
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.1379990019865574,
+      "cv_sd": 0.018072235919202526
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.13814555999907419,
+      "cv_sd": 0.017589200999413378
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 80,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.11827354489072808,
+      "cv_sd": 0.012967954220580839
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09531680848866278,
+      "cv_sd": 0.0057925006692475965
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11003811732787842,
+      "cv_sd": 0.009925418441473866
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.12700404663054252,
+      "cv_sd": 0.008848172992005996
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.1400739951622492,
+      "cv_sd": 0.016091738654530226
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.13657050677070812,
+      "cv_sd": 0.01134226631701718
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.14568156948739047,
+      "cv_sd": 0.027844999148331384
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.12250943635074348,
+      "cv_sd": 0.03361766235081449
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.07599072586481859,
+      "cv_sd": 0.03027509183901925
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.03244766531006931,
+      "cv_sd": 0.02550173825263395
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06656067454030716,
+      "cv_sd": 0.0027172352614134986
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07921185998525061,
+      "cv_sd": 0.0037235882566534137
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.08960431162408763,
+      "cv_sd": 0.005956333976833379
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.09702504451042215,
+      "cv_sd": 0.007714505420936799
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.10511554726561571,
+      "cv_sd": 0.0055363633441277435
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.1257616091038254,
+      "cv_sd": 0.009480053155301472
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.13424626793114877,
+      "cv_sd": 0.019312612831341117
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.13606288713538534,
+      "cv_sd": 0.018993582612779
+    },
+    {
+      "params": {
+        "model__max_depth": 4,
+        "model__n_estimators": 160,
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.1190217016099369,
+      "cv_sd": 0.010022831183686277
+    }
+  ],
+  "Eigen ensemble": [
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09679367099511393,
+      "cv_sd": 0.005168613385251946
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11883643934675825,
+      "cv_sd": 0.006566964415944629
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13579205984386108,
+      "cv_sd": 0.008852078925248351
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.149428250653797,
+      "cv_sd": 0.012636248869644222
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.15837160185392657,
+      "cv_sd": 0.029082319222830322
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.12450108878313212,
+      "cv_sd": 0.024514089954669985
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.06434143352450872,
+      "cv_sd": 0.033830747430424496
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.016494845360824743,
+      "cv_sd": 0.036883595505151176
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06281590099107023,
+      "cv_sd": 0.0017504294681267767
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.0756917766668577,
+      "cv_sd": 0.0024863124464840985
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.09118056257245089,
+      "cv_sd": 0.0036853654983546352
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.10202848337562467,
+      "cv_sd": 0.00622760484700503
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11634554558048778,
+      "cv_sd": 0.007180079618089502
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.1372342823140846,
+      "cv_sd": 0.01232530864646404
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.15400055280725183,
+      "cv_sd": 0.02400542423496578
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.1356492494810852,
+      "cv_sd": 0.014813464105951786
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.05585967563431001,
+      "cv_sd": 0.05036025507165222
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09533894284976399,
+      "cv_sd": 0.004272847164780544
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.11812783869547565,
+      "cv_sd": 0.006762989457583875
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13420043533926912,
+      "cv_sd": 0.009014324944989055
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.14766402018665753,
+      "cv_sd": 0.013020016257739535
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.15635057405998898,
+      "cv_sd": 0.025608245395545258
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.130256651606678,
+      "cv_sd": 0.033055970815988156
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.06837533198508808,
+      "cv_sd": 0.03309662195317723
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.020597701149425288,
+      "cv_sd": 0.034666788621389805
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0047619047619047615,
+      "cv_sd": 0.010647942749998997
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06369336218225248,
+      "cv_sd": 0.00205602358132036
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07629242744068536,
+      "cv_sd": 0.0019165608022570803
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.09026870942314529,
+      "cv_sd": 0.003292985553058972
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.1030302273722089,
+      "cv_sd": 0.005705088124448042
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11495114754250904,
+      "cv_sd": 0.006046720422302998
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.135014354507331,
+      "cv_sd": 0.012353736435747116
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.1586888182923335,
+      "cv_sd": 0.023301418572097717
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.14243098014710592,
+      "cv_sd": 0.026929296334069153
+    },
+    {
+      "params": {
+        "model__weights": [
+          2,
+          1,
+          1
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.05769655598241723,
+      "cv_sd": 0.04605876630165645
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.09677628538646224,
+      "cv_sd": 0.006013900410102808
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.12129415945878272,
+      "cv_sd": 0.004984965687335366
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.13603830207065176,
+      "cv_sd": 0.009208017829216299
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.14674803533410105,
+      "cv_sd": 0.014479595649320994
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.1558044040798743,
+      "cv_sd": 0.026231729077814334
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.11825755265436574,
+      "cv_sd": 0.013931204110075467
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.05635572952948962,
+      "cv_sd": 0.04247174766933952
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.0125,
+      "cv_sd": 0.027950849718747377
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.1
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.0,
+      "cv_sd": 0.0
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.1,
+      "cv_f1": 0.06218264171331067,
+      "cv_sd": 0.0017635549188176373
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.15,
+      "cv_f1": 0.07587047159706613,
+      "cv_sd": 0.0027522842526329196
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.2,
+      "cv_f1": 0.09185983173299167,
+      "cv_sd": 0.004495683167652198
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.25,
+      "cv_f1": 0.1022252044018869,
+      "cv_sd": 0.00691660735346821
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.3,
+      "cv_f1": 0.11574222064179782,
+      "cv_sd": 0.007862382238913121
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.4,
+      "cv_f1": 0.13837562292546288,
+      "cv_sd": 0.01241299428556528
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.5,
+      "cv_f1": 0.15458720223643857,
+      "cv_sd": 0.030679999836566964
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.6,
+      "cv_f1": 0.1325549477984333,
+      "cv_sd": 0.01479625109930393
+    },
+    {
+      "params": {
+        "model__weights": [
+          1,
+          2,
+          2
+        ],
+        "sampling__sampling_strategy": 0.25
+      },
+      "threshold": 0.7,
+      "cv_f1": 0.055291659529374745,
+      "cv_sd": 0.04848462513900406
+    }
+  ]
+}

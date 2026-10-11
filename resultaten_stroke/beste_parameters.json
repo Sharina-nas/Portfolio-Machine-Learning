@@ -1,0 +1,92 @@
+{
+  "KNN": {
+    "params": {
+      "model__classifier__metric": "manhattan",
+      "model__classifier__n_neighbors": 31,
+      "sampling__sampling_strategy": 0.25
+    },
+    "threshold": 0.5,
+    "cv_f1": 0.13178784212894348,
+    "cv_sd": 0.025081918793264765,
+    "search_seconds": 11.591128999833018
+  },
+  "Logistic Regression": {
+    "params": {
+      "model__classifier__C": 1.0,
+      "sampling__sampling_strategy": 0.25
+    },
+    "threshold": 0.6,
+    "cv_f1": 0.15321904996789434,
+    "cv_sd": 0.042094725209209066,
+    "search_seconds": 1.7593661001883447
+  },
+  "SVM": {
+    "params": {
+      "model__classifier__C": 1.0,
+      "model__classifier__kernel": "rbf",
+      "sampling__sampling_strategy": 0.1
+    },
+    "threshold": 0.15,
+    "cv_f1": 0.14453978742840276,
+    "cv_sd": 0.031961934535326114,
+    "search_seconds": 25.786719299852848
+  },
+  "Decision Tree": {
+    "params": {
+      "model__max_depth": 3,
+      "model__min_samples_leaf": 30,
+      "sampling__sampling_strategy": 0.1
+    },
+    "threshold": 0.4,
+    "cv_f1": 0.15698255336635153,
+    "cv_sd": 0.04473651155976079,
+    "search_seconds": 1.844199299812317
+  },
+  "Random Forest": {
+    "params": {
+      "model__max_depth": 8,
+      "model__min_samples_leaf": 5,
+      "sampling__sampling_strategy": 0.1
+    },
+    "threshold": 0.3,
+    "cv_f1": 0.15456786500015338,
+    "cv_sd": 0.02234722449283167,
+    "search_seconds": 11.556867200415581
+  },
+  "Gradient Boosting": {
+    "params": {
+      "model__max_depth": 2,
+      "model__n_estimators": 60,
+      "sampling__sampling_strategy": 0.1
+    },
+    "threshold": 0.3,
+    "cv_f1": 0.16074124950947904,
+    "cv_sd": 0.018876718245496478,
+    "search_seconds": 7.889603899791837
+  },
+  "XGBoost": {
+    "params": {
+      "model__max_depth": 2,
+      "model__n_estimators": 80,
+      "sampling__sampling_strategy": 0.1
+    },
+    "threshold": 0.3,
+    "cv_f1": 0.1577904866393508,
+    "cv_sd": 0.019549060529710716,
+    "search_seconds": 7.273266199976206
+  },
+  "Eigen ensemble": {
+    "params": {
+      "model__weights": [
+        2,
+        1,
+        1
+      ],
+      "sampling__sampling_strategy": 0.25
+    },
+    "threshold": 0.5,
+    "cv_f1": 0.1586888182923335,
+    "cv_sd": 0.023301418572097717,
+    "search_seconds": 14.126939400099218
+  }
+}
